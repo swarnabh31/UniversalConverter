@@ -77,3 +77,7 @@ offline_converter/
 ## License
 
 MIT
+
+## Tags
+
+unit-converter, currency-converter, offline-app, python, customtkinter, desktop-app, converter-tool, rate-caching

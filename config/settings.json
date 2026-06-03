@@ -1,0 +1,11 @@
+# Converter application settings
+
+{
+    "rate_expiry_hours": 24,
+    "default_currencies": ["USD", "EUR", "GBP", "INR", "JPY", "AUD", "CAD", "CHF"],
+    "preferred_rate_api": "exchangerate-api",
+    "fallback_rate_api": "open-er-api",
+    "network_timeout_seconds": 5,
+    "max_input_value": 1000000000.0,
+    "decimal_precision": 4
+}
